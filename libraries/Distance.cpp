@@ -8,7 +8,7 @@
 #include <Distance.h>
 
 // Constructor
-Distance::Adeept_Distance()
+Distance::Distance()
 {
 }
 // Begin function to set default pins
